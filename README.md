@@ -1,4 +1,4 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Berserk_%28Series%29_Brand_of_Sacrifice.png" width="80px" />
+![image](https://github.com/user-attachments/assets/ce5b8a6a-baea-4acf-b84e-e84d383e8018)
   Ata | Frontend Developer
 </h1>
