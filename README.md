@@ -77,6 +77,14 @@
 
 ---
 
+### 🕹️ Play a 3D Game
+
+<p align="center">
+  <iframe src="https://webglsamples.org/aquarium/aquarium.html" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -85,15 +93,6 @@
 
 ---
 
-### 🎨 Fun Customizations
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-red?style=for-the-badge&logo=github" alt="Thank You Badge" />
 </p>
-
