@@ -1,7 +1,7 @@
 # Hi there, I'm Ata! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=AtaIs3ta&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/AtaIS3ta?label=Follow&style=social)
 
 Welcome to my GitHub profile! I'm a **frontend developer** passionate about simplicity, readability, and scaling code. 🚀
 
