@@ -1,4 +1,4 @@
 <h1 align="center">
-![image](https://github.com/user-attachments/assets/ce5b8a6a-baea-4acf-b84e-e84d383e8018)
+  <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*wATbQ49jziZTyhZH.jpg" />
   Ata | Frontend Developer
 </h1>
